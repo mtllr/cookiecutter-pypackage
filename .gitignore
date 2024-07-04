@@ -25,6 +25,8 @@ pip-log.txt
 .coverage
 .tox
 nosetests.xml
+.pytest_cache
+**/__pycache__
 
 # Translations
 *.mo
@@ -33,6 +35,7 @@ nosetests.xml
 .mr.developer.cfg
 .project
 .pydevproject
+.history
 
 # Complexity
 output/*.html

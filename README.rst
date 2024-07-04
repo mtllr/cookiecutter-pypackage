@@ -7,7 +7,7 @@ Cookiecutter template for a Python package. See https://github.com/audreyr/cooki
 * Free software: BSD license
 * Pytest_ runner: Supports `unittest`, `pytest`, `nose` style tests and more
 * Travis-CI_: Ready for Travis Continuous integration testing
-* Tox_ testing: Setup to easily test for python 2.6, 2.7, 3.3 and PyPy_
+* Tox_ testing: Setup to easily test for python 3.8, 3.9, 3.10 and PyPy_
 * Sphinx_ docs: Documentation raedy for generation with, for example, ReadTheDocs_
 * Wheel_ support: Use the newest python package distribution standard from the get go
 
